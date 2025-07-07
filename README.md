@@ -1,4 +1,4 @@
-<img src="https://github.com/Ajithakvp/Ajithakvp/raw/main/banner.png" alt="Banner" style="width:100%; height:auto;" alt="Dashboard UI" loading="lazy" decoding="async" width="1920" height="768" />
+<img src="https://github.com/Ajithakvp/Ajithakvp/raw/main/banner.png" alt="Banner" style="width:100%; height:auto;" alt="Dashboard UI" loading="lazy" decoding="async"/>
 
 ---
 
