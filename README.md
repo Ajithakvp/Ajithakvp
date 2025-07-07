@@ -1,4 +1,4 @@
-<img src="https://github.com/Ajithakvp/AKVP/raw/main/banner.png" alt="Banner" style="width:100%; height:auto;" />
+<img src="https://github.com/Ajithakvp/Ajithakvp/raw/main/banner.png" alt="Banner" style="width:100%; height:auto;" />
 
 ---
 
